@@ -1,27 +1,12 @@
-💞️ Application Design Specialist by day, bug collector by night.  
-I design systems that work… until they don’t.  
-Currently learning how to blame the server more efficiently.💞️
 
- Hi! I'm Mimmooty — an Application Design Specialist  
-💼 Currently working on enterprise banking systems and microservices integration  
-
-🛠 Tech Stack I use:  
-- ☕ Java & Spring Boot  
-- 🐘 PostgreSQL | 🏛 Oracle  
-- 🐳 Docker | 🔗 REST APIs  
-
-📚 Currently learning:  
-- 🧩 System Design  
-- 🏗 Clean Architecture  
-- ☁️ Cloud & DevOps basics  
-
-🎯 Goals & Interests:  
-- Becoming a Solution Architect  
-- Designing scalable & resilient systems  
-- Exploring event‑driven architecture  
+Hi! I'm Mimmooty 🐱😼😸😹🐈🐈‍⬛🐾
+Full‑time: Application Design Specialist  
+Part‑time: 
+- Owner of **the.last.three.cat** – a shop for cool people
+  🛒 https://...
+- Owner of **Meowner** — a platform for business performance tracking  
+  🐱 https://...
 
 <!--🔗 Connect with me:  
-- 💼 LinkedIn: your-link-here  
-- 🌐 Portfolio: your-portfolio-here  
+- 💼 LinkedIn: your-link-here
 -->
-
