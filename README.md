@@ -1,6 +1,6 @@
-💞️ Writes code. Breaks code. Fixes code I broke.  
-Dreaming of becoming a Solution Architect but still fighting with semicolons.  
-Powered by matcha and deadlines.
+💞️ Application Design Specialist by day, bug collector by night.  
+I design systems that work… until they don’t.  
+Currently learning how to blame the server more efficiently.💞️
 
  Hi! I'm Mimmooty — an Application Design Specialist  
 💼 Currently working on enterprise banking systems and microservices integration  
