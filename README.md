@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @mimmooty
-- 👀 I’m interested in history math science and food
-- 🌱 I’m currently learning flutter
+💞️ Writes code. Breaks code. Fixes code I broke.  
+Dreaming of becoming a Solution Architect but still fighting with semicolons.  
+Powered by matcha and deadlines.
 
+ Hi! I'm Mimmooty — an Application Design Specialist  
+💼 Currently working on enterprise banking systems and microservices integration  
 
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-mimmooty/mimmooty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Tech Stack I use:  
+- ☕ Java & Spring Boot  
+- 🐘 PostgreSQL | 🏛 Oracle  
+- 🐳 Docker | 🔗 REST APIs  
+
+📚 Currently learning:  
+- 🧩 System Design  
+- 🏗 Clean Architecture  
+- ☁️ Cloud & DevOps basics  
+
+🎯 Goals & Interests:  
+- Becoming a Solution Architect  
+- Designing scalable & resilient systems  
+- Exploring event‑driven architecture  
+
+<!--🔗 Connect with me:  
+- 💼 LinkedIn: your-link-here  
+- 🌐 Portfolio: your-portfolio-here  
+-->
+
